@@ -1,6 +1,8 @@
 # Trust Game Demo Analysis
 
-A Streamlit webapp that accesses the same database as the [Trust Game Demo](https://github.com/cosanlab/trust-game) allowing for quick real-time analysis and data viz
+A Streamlit webapp that accesses the same database as the [Trust Game Demo](https://github.com/cosanlab/trust-game) allowing for quick real-time analysis and data viz.
+
+The live app is available [here](https://trust-game.streamlit.app/).
 
 ## Setting up for local development
 
