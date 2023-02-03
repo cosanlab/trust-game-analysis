@@ -97,6 +97,9 @@ st.set_page_config(
     page_title="Trust Game Demo Data Analysis",
     layout="wide",
     initial_sidebar_state="expanded",
+    menu_items={
+        "About": "[Check out the source code on Github](https://github.com/cosanlab/trust-game-analysis)",
+    },
 )
 
 # From here is all web-app "front-end" code
@@ -106,7 +109,7 @@ st.set_page_config(
 
 This app uses [streamlit](https://streamlit.io/) to automatically connect to the
 same database that powers the [demo trust game web
-app](https://trust-game-demo.netlify.app/)
+app](https://trust-game-demo.netlify.app/). You can checkout the source code for the app on [github](https://github.com/cosanlab/trust-game-analysis).
 
 **It will always pull the latest data!**
 
